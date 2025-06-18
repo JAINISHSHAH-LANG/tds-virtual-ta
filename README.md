@@ -9,3 +9,5 @@ A virtual teaching assistant for IIT Madras' Online Degree in Data Science (Janâ
 ## Sample Request
 ```bash
 curl -Uri "http://127.0.0.1:5000/api/" -Method POST -Body '{"question": "Which GPT model should I use for GA5?"}' -ContentType "application/json"
+python3 scraper.py
+
