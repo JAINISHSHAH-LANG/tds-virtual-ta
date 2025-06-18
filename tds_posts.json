@@ -1,0 +1,20 @@
+[
+  {
+    "topic_id": 155939,
+    "topic_slug": "ga5-question-8-clarification",
+    "post_number": 4,
+    "raw": "You must use gpt-3.5-turbo-0125 as per course instructions."
+  },
+  {
+    "topic_id": 155939,
+    "topic_slug": "ga5-question-8-clarification",
+    "post_number": 3,
+    "raw": "Use a tokenizer to count tokens, multiply by the rate given in the question."
+  },
+  {
+    "topic_id": 149001,
+    "topic_slug": "quiz-4-token-cost",
+    "post_number": 1,
+    "raw": "Use tiktoken to count tokens for each input/output."
+  }
+]
